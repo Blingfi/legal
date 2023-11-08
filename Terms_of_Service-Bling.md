@@ -1,6 +1,6 @@
 ## Terms of Service
 
-DATE LAST MODIFIED: Oct 02, 2023.
+DATE LAST MODIFIED: Nov 08, 2023.
 
 
 ### Acceptance of Terms
@@ -234,9 +234,18 @@ The failure of BLING to enforce any right or provision of these Terms will not c
 
 THE SECTION TITLES IN THESE TERMS OF SERVICE ARE FOR CONVENIENCE ONLY AND HAVE NO LEGAL OR CONTRACTUAL EFFECT.
 
+### Class Action Waiver
+
+The parties further agree that any disputes shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND BLING AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
+
+Disputes will be settled by binding individual arbitration conducted by JAMS. The arbitrator’s decision is final, except for a limited review by courts under the U.S. Federal Arbitration Act, and can enforced like any other court order or judgment.
+
+### RIGHT TO OPT-OUT
+
+You have the right to opt out of and not to be bound by the arbitration and class action waiver provisions set forth in these Terms. To exercise this right, you must send written notice of your decision to the following address: Bling Finacnial inc., 440 N Barranca Ave #1433, Covina, CA 91723, U.S.A. Your notice must include your name, mailing address, and email associated with your Bling account, and state that you do not wish to resolve disputes through arbitration. To be effective, this notice must be postmarked or deposited within 30 days of the date on which you first accepted these Terms unless a longer period is required by applicable law; otherwise you will be bound to arbitrate disputes in accordance with this section. You are responsible for ensuring that Bling receives your opt-out notice, so you may wish to send it by a means that provides for a delivery receipt. If you opt out of these arbitration provisions, Bling will not be bound by them with respect to disputes with you.
 
 
-### **General Health Notice**
+### General Health Notice
 
 **WARNINGS: READ BEFORE PLAYING OR WATCHING**
 **‍ Photo-sensitivity / seizures warning ****
