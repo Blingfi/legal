@@ -42,8 +42,7 @@ The Platform uses necessary and analytic cookies.  Any any analytic cookies may 
 | Hotjar | \_hjIncludedInPageviewSample | Analytic | This cookie is set to let Hotjar know whether that visitor is included in the data sampling defined by your site's pageview limit.  Expiry 30 minutes. |
 | Hotjar | \_hjIncludedInSessionSample | Analytic | This cookie is set to let Hotjar know whether that visitor is included in the data sampling defined by your site's daily session limit. Expiry 30 minutes. |
 | Hotjar | \_hjAbsoluteSessionInProgress | Analytic | This cookie is used to detect the first pageview session of a user. This is a True/False flag set by the cookie. Expiry 30 minutes. |
-| Bling | Blingcookie | This cookie detects whether a visitor has previously accepted the Cookie Policy and whether it should display it again. Expiry 365 days. |
- |
+| Bling | Blingcookie | | This cookie detects whether a visitor has previously accepted the Cookie Policy and whether it should display it again. Expiry 365 days. |
 
 ### Third Party Cookies
 
